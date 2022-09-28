@@ -33,7 +33,7 @@ android {
         release {
             storeFile file('/Users/bharatraj/Downloads/Downloads/Solvify/CREDS/user.keystore')
             storePassword 'Solvyfi'
-            keyAlias 'solvyfi'
+            keyAlias 'solvyfii'
             keyPassword 'Solvyfi'
         }
     }
